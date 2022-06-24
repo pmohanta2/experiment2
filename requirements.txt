@@ -6,4 +6,4 @@ opencv-python
 mtcnn
 typing
 tensorflow
-PIL
+Pillow
