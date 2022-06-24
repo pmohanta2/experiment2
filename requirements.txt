@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 keras
-cv2
+opencv-python
 mtcnn
 typing
 tensorflow
