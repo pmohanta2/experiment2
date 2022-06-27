@@ -1,9 +1,3 @@
 streamlit
-numpy
-pandas
+opencv-contrib-python-headless
 keras
-opencv-python
-mtcnn
-typing
-tensorflow
-Pillow
