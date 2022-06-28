@@ -6,7 +6,7 @@
 
 import streamlit as st
 import cv2
-from tensorflow import keras
+import keras
 import numpy as np
 import os
 import numpy
