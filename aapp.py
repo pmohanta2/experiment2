@@ -34,7 +34,7 @@ def main():
     st.title("Recommend songs by detecting facial emotion ")
    # st.write("**Using the Haar cascade Classifiers**")
 
-    activities = ["Home", "About"]
+    activities = ["Home", "About", "Devloper"]
     choice = st.sidebar.selectbox("Pick something fun", activities)
     
     EMOTIONS = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
