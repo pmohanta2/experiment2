@@ -16,7 +16,11 @@ import numpy
 
 
 def about():
-    st.write('''**Recommend songs by detecting facial emotion''')
+    st.write('''# Recommend songs by detecting facial emotion''')
+    st.write("""A user’s emotion or mood can be detected by his/her facial expressions. A lot of research is being conducted in the field of Computer Vision and Machine Learning (ML), where machines are trained to identify various human emotions or moods. Machine Learning provides various techniques through which human emotions can be detected.
+Music is a great connector. It unites us across markets, ages, backgrounds, languages, preferences, political leanings, and income levels. People often use music as a means of mood regulation, specifically to change a bad mood, increase energy levels or reduce tension. Also, listening to the right kind of music at the right time may improve mental health. Thus, human emotions have a strong relationship with music.
+The objective of this is to analyze the user's image, predict the expression of the user and suggest songs suitable to the detected mood.""")
+
 
 
 # In[5]:
