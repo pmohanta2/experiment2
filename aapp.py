@@ -75,25 +75,25 @@ def main():
                     
                     st.write("## Recommended audio")
                     if label == 'angry':
-                        st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
+                        st.video("https://www.youtube.com/watch?v=vIs4pNy8hzI")
                         
                     elif label == 'disgust':
-                        st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
+                        st.video("https://www.youtube.com/watch?v=KwiDJclWo44")
                         
                     elif label == 'fear':
-                        st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
+                        st.video("https://www.youtube.com/watch?v=Kjyr9JYd3-I")
                         
                     elif label == 'happy':
-                        st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
+                        st.video("https://www.youtube.com/watch?v=IwSZzuvevyc")
                         
                     elif label == 'neutral':
                         st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
                         
                     elif label == 'sad':
-                        st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
+                        st.video("https://www.youtube.com/watch?v=284Ov7ysmfA")
                     
                     elif label ==  'surprise':
-                        st.video("https://www.youtube.com/watch?v=EzPg8-285YI")
+                        st.video("https://www.youtube.com/watch?v=zlt38OOqwDc")
                     
 
     elif choice == "About":
