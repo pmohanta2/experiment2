@@ -71,7 +71,7 @@ def main():
                     
                     predicts = model.predict(gray)[0]
                     label = EMOTIONS[predicts.argmax()]
-                    st.write('Detected emotion is', label)
+                    st.write('# Detected emotion is', label)
                     
                     st.write("## Recommended audio")
                     if label == 'angry':
